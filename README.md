@@ -4,7 +4,9 @@
 ## Ferramentas
 
 Talend open studio (ETL)
+
 Mysql (Base de dados) 
+
 Tableau (Visualização dos dados) 
 
 
