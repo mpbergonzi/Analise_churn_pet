@@ -80,5 +80,6 @@ meu churn é
 
 22 / 7799 * 100 = 0,28 %
 
-## Final delivery
+## Acesso as análises 
 
+https://public.tableau.com/profile/mpbergonzi#!/vizhome/PetLove/AnliseSadas?publish=yes 
