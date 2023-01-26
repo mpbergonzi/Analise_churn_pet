@@ -1,4 +1,4 @@
-# Análise de chunr - Petlove
+# Análise de churn - Petlove
 
 
 ## Ferramentas
